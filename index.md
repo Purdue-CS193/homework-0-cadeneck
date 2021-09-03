@@ -9,7 +9,7 @@ Got Hobbies?
 
 - Watching Anime
 - `Playing Video Games & D&D with Friends`
-- Psychology / Philosphy 
+- Psychology / Philosophy 
 - Creative Writing
 - **Climbing Stuff**
 - Tennis
