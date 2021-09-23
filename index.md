@@ -1,9 +1,11 @@
-## My, Caden's, Intrest
+## Caden's First CS193 Homework
 ### (I know wild)
 
 This page is dedicated to me and only me. Welcome
 
-
+Things I Like about CS193
+- Fun Icebreakers
+- Cool TAs
 
 Got Hobbies?
 
